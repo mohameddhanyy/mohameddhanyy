@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **.Net**
 
-- 📫 How to reach me **mohany92754@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MFvlkYPqBl3R7CYG8ic-IH32453jZlPo/view?usp=sharing](https://drive.google.com/file/d/1MFvlkYPqBl3R7CYG8ic-IH32453jZlPo/view?usp=sharing)
 
 <div align="center">
