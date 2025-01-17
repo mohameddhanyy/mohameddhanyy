@@ -2,7 +2,7 @@
 
 <h3>Hello There 👋🏻 , I'm Mohamed Hany </h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=04d9ff&center=true&vCenter=true&width=435&lines=Back-End+Developer;Passionate+Learner)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=04d9ff&center=true&vCenter=true&width=435&lines=Back-End+(.Net)+Developer;Passionate+Learner)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohany92754@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-hany-6848b1203/)
